@@ -1,0 +1,212 @@
+{
+    "LogisticRegression_only_kbest": {
+        "accuracy": 0.59883,
+        "precision": 0.0717,
+        "recall": 0.55502,
+        "f1": 0.127,
+        "resampling": "smote_rnd"
+    },
+    "LogisticRegression_kbest": {
+        "accuracy": 0.6169,
+        "precision": 0.06974,
+        "recall": 0.50957,
+        "f1": 0.1227,
+        "resampling": "smote_rnd"
+    },
+    "LogisticRegression_only_rfe": {
+        "accuracy": 0.57754,
+        "precision": 0.06754,
+        "recall": 0.54944,
+        "f1": 0.1203,
+        "resampling": "smote_rnd"
+    },
+    "LogisticRegression_rfe": {
+        "accuracy": 0.6208,
+        "precision": 0.06817,
+        "recall": 0.49043,
+        "f1": 0.11971,
+        "resampling": "smote_rnd"
+    },
+    "LogisticRegression_only_var": {
+        "accuracy": 0.61284,
+        "precision": 0.07087,
+        "recall": 0.52552,
+        "f1": 0.12489,
+        "resampling": "smote_rnd"
+    },
+    "LogisticRegression_var": {
+        "accuracy": 0.61682,
+        "precision": 0.06973,
+        "recall": 0.50957,
+        "f1": 0.12267,
+        "resampling": "smote_rnd"
+    },
+    "LogisticRegression_only_pca": {
+        "accuracy": 0.51121,
+        "precision": 0.05186,
+        "recall": 0.48006,
+        "f1": 0.0936,
+        "resampling": "smote_rnd"
+    },
+    "LogisticRegression_pca": {
+        "accuracy": 0.62193,
+        "precision": 0.06742,
+        "recall": 0.48246,
+        "f1": 0.1183,
+        "resampling": "smote_rnd"
+    },
+    "LogisticRegression_all": {
+        "accuracy": 0.61372,
+        "precision": 0.06654,
+        "recall": 0.48724,
+        "f1": 0.11709,
+        "resampling": "smote_rnd"
+    },
+    "LogisticRegression_only_nums": {
+        "accuracy": 0.5959,
+        "precision": 0.0681,
+        "recall": 0.52711,
+        "f1": 0.12061,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_only_kbest": {
+        "accuracy": 0.88312,
+        "precision": 0.05094,
+        "recall": 0.06938,
+        "f1": 0.05874,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_kbest": {
+        "accuracy": 0.89959,
+        "precision": 0.07457,
+        "recall": 0.07974,
+        "f1": 0.07707,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_only_rfe": {
+        "accuracy": 0.88777,
+        "precision": 0.05392,
+        "recall": 0.06858,
+        "f1": 0.06037,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_rfe": {
+        "accuracy": 0.8946,
+        "precision": 0.05758,
+        "recall": 0.06539,
+        "f1": 0.06124,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_only_var": {
+        "accuracy": 0.87494,
+        "precision": 0.05507,
+        "recall": 0.08533,
+        "f1": 0.06694,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_var": {
+        "accuracy": 0.89012,
+        "precision": 0.06158,
+        "recall": 0.07656,
+        "f1": 0.06825,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_only_pca": {
+        "accuracy": 0.77818,
+        "precision": 0.05802,
+        "recall": 0.21132,
+        "f1": 0.09105,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_pca": {
+        "accuracy": 0.89347,
+        "precision": 0.05344,
+        "recall": 0.0614,
+        "f1": 0.05714,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_all": {
+        "accuracy": 0.88588,
+        "precision": 0.05889,
+        "recall": 0.07815,
+        "f1": 0.06717,
+        "resampling": "smote_rnd"
+    },
+    "DecisionTreeClassifier_only_nums": {
+        "accuracy": 0.88119,
+        "precision": 0.05568,
+        "recall": 0.07895,
+        "f1": 0.0653,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_only_kbest": {
+        "accuracy": 0.94609,
+        "precision": 0.07895,
+        "recall": 0.00239,
+        "f1": 0.00464,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_kbest": {
+        "accuracy": 0.94743,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_only_rfe": {
+        "accuracy": 0.94575,
+        "precision": 0.1,
+        "recall": 0.00399,
+        "f1": 0.00767,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_rfe": {
+        "accuracy": 0.94739,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_only_var": {
+        "accuracy": 0.93888,
+        "precision": 0.0678,
+        "recall": 0.01276,
+        "f1": 0.02148,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_var": {
+        "accuracy": 0.94739,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_only_pca": {
+        "accuracy": 0.92961,
+        "precision": 0.02882,
+        "recall": 0.01037,
+        "f1": 0.01525,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_pca": {
+        "accuracy": 0.94743,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_all": {
+        "accuracy": 0.94659,
+        "precision": 0.08333,
+        "recall": 0.00159,
+        "f1": 0.00313,
+        "resampling": "smote_rnd"
+    },
+    "RandomForestClassifier_only_nums": {
+        "accuracy": 0.9447,
+        "precision": 0.12644,
+        "recall": 0.00877,
+        "f1": 0.01641,
+        "resampling": "smote_rnd"
+    }
+}
