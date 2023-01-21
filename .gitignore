@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 .github
 .cache
+scores/
+model_scaler_encoder/
